@@ -11,7 +11,8 @@ import SwiftUI
 struct FoodItems_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            CustomHeaderView()
         }
     }
 }
